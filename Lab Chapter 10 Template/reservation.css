@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 
 div {
@@ -21,7 +21,7 @@ fieldset {
 }
 
 legend {
-    color: blue;
+    color: rgb(23, 23, 25);
     font-weight: bold;
     font-size: 85%;
     margin-bottom: .5em;
